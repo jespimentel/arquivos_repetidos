@@ -1,4 +1,3 @@
-import os, filecmp, shutil
 import os, hashlib, shutil
 import tkinter as tk
 from tkinter import filedialog 
